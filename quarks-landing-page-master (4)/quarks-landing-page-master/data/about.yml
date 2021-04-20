@@ -1,0 +1,16 @@
+enable : true
+heading : About
+headingSpan : Us
+aboutItem : 
+
+- icon : tf-anchor2
+  title : Passionate
+  content : We are first and foremost here because we love the work we are doing. This passion for our company  and products make us a family that we cannot value enough.
+
+- icon : tf-tools
+  title : Driven
+  content : We seek relentlessness in those who aspire to join the quarks group family. Since day one, impossible  has never been part of  our vocabulary and it will never be.
+
+- icon : tf-strategy
+  title : Professional
+  content : creativity and passion all come short when one doesn't come through with his promises. A daily reminder to deliver and most importantly deliver on time.

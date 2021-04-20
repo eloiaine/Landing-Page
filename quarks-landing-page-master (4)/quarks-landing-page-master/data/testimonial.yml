@@ -1,0 +1,17 @@
+enable : false
+bgImage : images/backgrounds/bg-2.jpg
+testimonialItem :
+  - name : Iraguha Destin
+    image : images/team/client-1.jpg
+    date : May 12, 2019
+    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium mi
+    
+  - name : Niyonkuru Eloi Aîné 
+    image : images/team/client-2.jpg
+    date : May 12, 2019
+    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    
+  - name : Uwinkindi Brigitte
+    image : images/team/client-1.jpg
+    date : May 12, 2019
+    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!

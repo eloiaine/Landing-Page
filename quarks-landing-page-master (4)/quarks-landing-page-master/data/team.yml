@@ -1,0 +1,52 @@
+enable : true
+heading : Our
+headingSpan : Team
+teamMember :
+  - image : images/team/team-ceo.jpg
+    name : Iraguha Destin
+    designation : CEO/Co-Founder
+    # description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    socialIcon :
+      - icon : tf-ion-social-facebook
+        url : "#"
+      - icon : tf-ion-social-twitter
+        url : "#"
+      - icon : tf-ion-social-instagram
+        url : "https://www.instagram.com/ir_destin/"
+      
+  - image : images/team/team-coo.jpg
+    name :  Niyonkuru Eloi Aîné 
+    designation : COO/Co-Founder
+    # description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    socialIcon :
+      - icon : tf-ion-social-instagram
+        url : "https://www.instagram.com/aine_eloi/"
+      - icon : tf-ion-social-twitter
+        url : "https://twitter.com/eloi_aine"
+      - icon : tf-ion-social-linkedin
+        url : "https://www.linkedin.com/in/eloi-a%C3%AEn%C3%A9-b8919611b/"
+
+      
+  - image : images/team/team-cto.jpg
+    name : Rugwiro Valentin
+    designation : CTO/Co-Founder
+    # description : Lorelum ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    socialIcon :
+      - icon : tf-ion-social-github
+        url : "https://github.com/rugwirobaker"
+      - icon : tf-ion-social-twitter
+        url : "https://twitter.com/MRugwiro"
+      - icon : tf-ion-social-linkedin
+        url : "https://www.linkedin.com/in/rugwiro-mbanda-valentin-989315146/"
+      
+  - image : images/team/team-bb.jpg
+    name : Uwinkindi Brigitte
+    designation : Marketing Manager
+    # description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    socialIcon :
+      - icon : tf-ion-social-facebook
+        url : "#"
+      - icon : tf-ion-social-twitter
+        url : "#"
+      - icon : tf-ion-social-linkedin
+        url : "#"

@@ -1,0 +1,14 @@
+enable : true
+image : images/about/about-business-quarks.jpg
+title : We are building native applications.
+description : We give you the ability to build, deploy, monitor and maintain your applications to the cloud using modern tools without lifting a finger. 
+description2 : Our development team is polyglot so you don't ever have to think about your application's tech stack but rather the value it is bringing to your business.
+description3: For the first time in Rwanda we are bringing to the market the ability to autoscale your applications as your clients demand it without incuring high hosting costs are suffering downtime.
+# aboutItem : 
+#   - icon : tf-circle-compass
+#     title : SEO Optimized
+#     content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    
+#   - icon : tf-hotairballoon
+#     title : Easy Customization
+#     content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe

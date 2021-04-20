@@ -1,0 +1,26 @@
+enable : true
+heading : Our
+headingSpan : Services
+serviceItem :
+  - icon : tf-globe
+    title : Software Development
+    content : Our world class team is here to bring to life your idea of the ideal software solution. Be it web, mobile or even a desktop application we've got you covered
+  - icon : tf-ion-laptop
+    title : Hardware Maintenance
+    content : Your work laptop is giving you a headache? We are here for you. With  our expiernce working with machines you will be back writing your reports in no time at all. 
+    
+  - icon : tf-genius
+    title : Cloud DevOps
+    content : You can't afford any downtime on any of your critical services. With the cloud we are making sure once your application is online it stays that way .
+    
+  # - icon : tf-dial
+  #   title : Graphic Design
+  #   content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    
+  # - icon : tf-target3
+  #   title : Mobile app Development
+  #   content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    
+  # - icon : tf-lifesaver
+  #   title : Networking
+  #   content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.

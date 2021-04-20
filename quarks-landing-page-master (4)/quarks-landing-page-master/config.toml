@@ -1,0 +1,141 @@
+baseURL = "https://quarks.netlify.com"
+languageCode = "en-us"
+DefaultContentLanguage = "en"
+title = "Quarks Group"
+theme = "meghna-hugo"
+summaryLength = 10
+
+[taxonomies]
+  author = "author"
+  category = "categories"
+  tag = "tags"
+
+# Menu
+[menu]
+    [[menu.nav]]
+    name = "About Us"
+    URL = "about"
+    weight = 2
+
+    [[menu.nav]]
+    name = "Service"
+    URL = "services"
+    weight = 3
+
+    [[menu.nav]]
+    name = "Portfolio"
+    URL = "portfolio"
+    weight = 4
+
+    [[menu.nav]]
+    name = "Team"
+    URL = "our-team"
+    weight = 5
+
+    # [[menu.nav]]
+    # name = "Pricing"
+    # URL = "pricing"
+    # weight = 6
+
+    # [[menu.nav]]
+    # name = "Blog"
+    # URL = "blog"
+    # weight = 7
+
+    [[menu.nav]]
+    name = "Contact"
+    URL = "contact-us"
+    weight = 8
+
+# Site params
+[params]
+home= "Home"
+logo = "images/logo.png"
+# gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+# Meta data
+description = "the home to quarks group "
+author = "Rugwiro Valentin"
+# Google Analitycs
+# googleAnalitycsID = "AIzaSyBP2gPRmp8-vWOApsalF8xfNUhqYR3BvmA"
+custom_css = ["css/custom.css"]
+
+    # Banner Section
+    [params.banner]
+    enable = true
+    bgImage = "images/slider/hero-area.jpg"
+    #icon = "tf-ion-play"
+    heading = "Your dreams brought to life"
+    #content= "we aim t bring facilitate"
+    btn = true
+    btnText="We bring You"
+    btnURL="#services"
+
+    # # call to action
+    # [params.cta]
+    # enable = true
+    # title = "Great Design & Incredible Features"
+    # content = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+    # btnURL = "#"
+    # btnText = "Start a project with us"
+
+    # # counter
+    # [params.counter]
+    # enable = true
+    # bgImage = "images/backgrounds/bg-1.jpg"
+    #     [[params.counter.counterItem]]
+    #     title = "Happy Clients"
+    #     icon = "tf-ion-android-happy"
+    #     count = "320"
+
+    #     [[params.counter.counterItem]]
+    #     title = "Projects completed"
+    #     icon = "tf-ion-archive"
+    #     count = "565"
+
+    #     [[params.counter.counterItem]]
+    #     title = "Positive feedback"
+    #     icon = "tf-ion-thumbsup"
+    #     count = "95"
+
+    #     [[params.counter.counterItem]]
+    #     title = "Cups of Coffee"
+    #     icon = "tf-ion-coffee"
+    #     count = "2500"
+
+    # footer
+    [params.footer]
+        copyright = "quarksgroup"
+        copyrightURL = "github.com/quarks/copyrights"
+
+        # social Icons
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-facebook"
+        url = "https://www.facebook.com/quarksgroup"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-twitter"
+        url = "https://twitter.com/QuarksG"
+
+         [[params.footer.socialIcon]]
+        icon = "tf-ion-social-instagram"
+        url = "https://www.instagram.com/quarksgroup/"
+
+        # [[params.footer.socialIcon]]
+        # icon = "tf-ion-social-google-outline"
+        # url = "#"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-youtube"
+        url = "#"
+
+        # [[params.footer.socialIcon]]
+        # icon = "tf-ion-social-linkedin"
+        # url = "#"
+
+        # [[params.footer.socialIcon]]
+        # icon = "tf-ion-social-dribbble-outline"
+        # url = "#"
+
+        # [[params.footer.socialIcon]]
+        # icon = "tf-ion-social-pinterest-outline"
+        # url = "#"
